@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delysiaeoration00woergoog_0006.png"; bbox 0 0 3284 4956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 8 966 1395 1158">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 8 966 1395 1158">
+     <span class='ocr_line' id='line_1_1' title="bbox 8 966 1395 1158; baseline 0.004 -39"><span class='ocrx_word' id='word_1_1' title='bbox 8 1017 23 1082; x_wconf 67' lang='lat'>³</span> <span class='ocrx_word' id='word_1_2' title='bbox 216 967 423 1121; x_wconf 79' lang='lat' dir='ltr'>LYSIAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 450 966 738 1123; x_wconf 77' lang='grc' dir='ltr'>ΟΒᾹΤΙΟΝΕ</span> <span class='ocrx_word' id='word_1_4' title='bbox 754 969 916 1124; x_wconf 78' lang='grc' dir='ltr'>ΥΠΕΡ</span> <span class='ocrx_word' id='word_1_5' title='bbox 944 971 1057 1123; x_wconf 82' lang='grc' dir='ltr'><strong>ΤΟΥ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1082 969 1395 1158; x_wconf 78' lang='grc' dir='ltr'>ᾹΔΥΝᾹΤΟΥ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 603 1513 1104 1629">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 603 1513 1104 1629">
+     <span class='ocr_line' id='line_1_2' title="bbox 603 1513 1104 1629; baseline -0.008 -19"><span class='ocrx_word' id='word_1_7' title='bbox 603 1533 1011 1629; x_wconf 75' lang='lat' dir='ltr'>QUAESTIONES</span> <span class='ocrx_word' id='word_1_8' title='bbox 1103 1513 1104 1516; x_wconf 67' lang='lat'>‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 459 2723 1156 2866">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 459 2723 1156 2866">
+     <span class='ocr_line' id='line_1_3' title="bbox 459 2723 1156 2866; baseline 0 -35"><span class='ocrx_word' id='word_1_9' title='bbox 459 2749 820 2831; x_wconf 76' lang='lat' dir='ltr'>GUSTAVUS</span> <span class='ocrx_word' id='word_1_10' title='bbox 860 2723 1156 2866; x_wconf 66' lang='lat' dir='ltr'>wbsspm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 394 3635 1179 3645">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 394 3635 1179 3645">
+     <span class='ocr_line' id='line_1_4' title="bbox 394 3635 1179 3645; baseline 0.004 -4"><span class='ocrx_word' id='word_1_11' title='bbox 394 3635 917 3644; x_wconf 73' lang='lat'><strong>——..-————.—-—--—-.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 926 3639 1179 3645; x_wconf 73' lang='lat'>-—-——.—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 692 3891 917 3959">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 692 3891 917 3959">
+     <span class='ocr_line' id='line_1_5' title="bbox 692 3891 917 3959; baseline 0 -2"><span class='ocrx_word' id='word_1_13' title='bbox 692 3891 917 3959; x_wconf 81' lang='lat' dir='ltr'><strong>LIPSIAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1646 4956">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1646 4956">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1646 4956; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1646 4956; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
